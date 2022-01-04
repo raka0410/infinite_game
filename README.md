@@ -1,1 +1,1 @@
-# infinite_game
+# C20
